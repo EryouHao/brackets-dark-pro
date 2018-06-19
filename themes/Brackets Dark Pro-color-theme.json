@@ -1,0 +1,14 @@
+{
+	"tokenColors": "./Brackets Dark Pro.tmTheme",
+	"name": "Brackets Dark Pro",
+	"colors": {
+    "editor.background": "#1d1f21",
+		"statusBar.background": "#343f4a",
+		"statusBar.foreground": "#959ea2",
+		"statusBar.noFolderBackground": "#343f4a",
+		"statusBarItem.hoverBackground": "#333333",
+		"sideBar.background": "#1d1f21",
+		"titleBar.activeBackground": "#1d1f21",
+		"titleBar.activeForeground": "#dddddd"
+	}
+}
