@@ -662,6 +662,18 @@
             <string>#fec514</string>
             </dict>
         </dict>
+        <!-- json -->
+        <dict>
+            <key>name</key>
+            <string>JSON Key</string>
+            <key>scope</key>
+            <string>support.type.property-name.json</string>
+            <key>settings</key>
+            <dict>
+            <key>foreground</key>
+            <string>#5f8ad8</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>9bf0eac5-989a-402e-b4e3-c18caf864d3b</string>

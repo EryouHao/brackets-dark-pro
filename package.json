@@ -2,7 +2,7 @@
     "name": "brackets-dark-pro",
     "displayName": "Brackets Dark Pro",
     "description": "Brackets Dark Pro Theme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "EryouHao",
     "engines": {
         "vscode": "^1.24.0"
